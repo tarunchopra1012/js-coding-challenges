@@ -1,1 +1,1 @@
-# js-coding-challenges
+# JS Coding Challenges
